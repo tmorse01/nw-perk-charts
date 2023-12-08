@@ -1,0 +1,202 @@
+{
+  "armorPerks": [
+    {
+      "name": "Refreshing",
+      "category": "Utility",
+      "importance": 1,
+      "value": 5000
+    },
+    {
+      "name": "Physical Aversion",
+      "category": "Damage Absorption",
+      "importance": 3,
+      "value": 4750
+    },
+    {
+      "name": "Elemental Aversion",
+      "category": "Damage Absorption",
+      "importance": 3,
+      "value": 4700
+    },
+    {
+      "name": "Shirking Fortification",
+      "category": "Damage Absorption",
+      "importance": 5,
+      "value": 4650
+    },
+    {
+      "name": "Enchanted Ward",
+      "category": "Elemental Resistance",
+      "importance": 6,
+      "value": 4600
+    },
+    {
+      "name": "Grit Ward",
+      "category": "Physical Resistance",
+      "importance": 7,
+      "value": 4550
+    },
+    {
+      "name": "Freedom",
+      "category": "Utility",
+      "importance": 2,
+      "value": 4500
+    },
+    {
+      "name": "Vigor",
+      "category": "Health and Healing",
+      "importance": 4,
+      "value": 4450
+    },
+    {
+      "name": "Invigorated",
+      "category": "Health and Healing",
+      "importance": 5,
+      "value": 4400
+    },
+    {
+      "name": "Arcane Harnessing",
+      "category": "Elemental Resistance",
+      "importance": 8,
+      "value": 4350
+    },
+    {
+      "name": "Fire Harnessing",
+      "category": "Elemental Resistance",
+      "importance": 8,
+      "value": 4300
+    },
+    {
+      "name": "Ice Harnessing",
+      "category": "Elemental Resistance",
+      "importance": 8,
+      "value": 4250
+    },
+    {
+      "name": "Lightning Harnessing",
+      "category": "Elemental Resistance",
+      "importance": 8,
+      "value": 4200
+    },
+    {
+      "name": "Nature Harnessing",
+      "category": "Elemental Resistance",
+      "importance": 8,
+      "value": 4150
+    },
+    {
+      "name": "Void Harnessing",
+      "category": "Elemental Resistance",
+      "importance": 8,
+      "value": 4100
+    },
+    {
+      "name": "Reinforced Logging Luck",
+      "category": "Luck and Fortune",
+      "importance": 9,
+      "value": 4050
+    },
+    {
+      "name": "Reinforced Harvesting Luck",
+      "category": "Luck and Fortune",
+      "importance": 9,
+      "value": 4000
+    },
+    {
+      "name": "Reinforced Mining Luck",
+      "category": "Luck and Fortune",
+      "importance": 9,
+      "value": 3950
+    },
+    {
+      "name": "Reinforced Skinning Luck",
+      "category": "Luck and Fortune",
+      "importance": 9,
+      "value": 3900
+    },
+    {
+      "name": "Shirking Heals",
+      "category": "Health and Healing",
+      "importance": 1,
+      "value": 3850
+    },
+    {
+      "name": "Health",
+      "category": "Health and Healing",
+      "importance": 2,
+      "value": 3800
+    },
+    {
+      "name": "Luck",
+      "category": "Luck and Fortune",
+      "importance": 4,
+      "value": 3750
+    },
+    {
+      "name": "Slash Conditioning",
+      "category": "Physical Resistance",
+      "importance": 6,
+      "value": 3700
+    },
+    {
+      "name": "Strike Conditioning",
+      "category": "Physical Resistance",
+      "importance": 6,
+      "value": 3650
+    },
+    {
+      "name": "Thrust Conditioning",
+      "category": "Physical Resistance",
+      "importance": 6,
+      "value": 3600
+    },
+    {
+      "name": "Critical Retribution",
+      "category": "Combat Efficiency",
+      "importance": 7,
+      "value": 3550
+    },
+    {
+      "name": "Sturdy Energy",
+      "category": "Combat Efficiency",
+      "importance": 5,
+      "value": 3500
+    },
+    {
+      "name": "Empowering Breaker",
+      "category": "Combat Efficiency",
+      "importance": 7,
+      "value": 3450
+    },
+    {
+      "name": "Shirking Energy",
+      "category": "Utility",
+      "importance": 1,
+      "value": 3400
+    },
+    {
+      "name": "Flame Conditioning",
+      "category": "Elemental Resistance",
+      "importance": 8,
+      "value": 3350
+    },
+    {
+      "name": "Frost Conditioning",
+      "category": "Elemental Resistance",
+      "importance": 8,
+      "value": 3300
+    },
+    {
+      "name": "Arboreal Conditioning",
+      "category": "Elemental Resistance",
+      "importance": 8,
+      "value": 1250
+    },
+    {
+      "name": "Abyssal Conditioning",
+      "category": "Elemental Resistance",
+      "importance": 8,
+      "value": 1200
+    }
+  ]
+}

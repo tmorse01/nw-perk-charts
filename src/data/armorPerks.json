@@ -10,7 +10,7 @@
       "name": "Physical Aversion",
       "category": "Damage Absorption",
       "importance": 3,
-      "value": 4750
+      "value": 4000
     },
     {
       "name": "Elemental Aversion",
@@ -34,97 +34,97 @@
       "name": "Grit Ward",
       "category": "Physical Resistance",
       "importance": 7,
-      "value": 4550
+      "value": 4500
     },
     {
       "name": "Freedom",
       "category": "Utility",
       "importance": 2,
-      "value": 4500
+      "value": 4000
     },
     {
       "name": "Vigor",
       "category": "Health and Healing",
       "importance": 4,
-      "value": 4450
+      "value": 3000
     },
     {
       "name": "Invigorated",
       "category": "Health and Healing",
       "importance": 5,
-      "value": 4400
+      "value": 3000
     },
     {
       "name": "Arcane Harnessing",
       "category": "Elemental Resistance",
       "importance": 8,
-      "value": 4350
+      "value": 2500
     },
     {
       "name": "Fire Harnessing",
       "category": "Elemental Resistance",
       "importance": 8,
-      "value": 4300
+      "value": 2500
     },
     {
       "name": "Ice Harnessing",
       "category": "Elemental Resistance",
       "importance": 8,
-      "value": 4250
+      "value": 2500
     },
     {
       "name": "Lightning Harnessing",
       "category": "Elemental Resistance",
       "importance": 8,
-      "value": 4200
+      "value": 2500
     },
     {
       "name": "Nature Harnessing",
       "category": "Elemental Resistance",
       "importance": 8,
-      "value": 4150
+      "value": 2500
     },
     {
       "name": "Void Harnessing",
       "category": "Elemental Resistance",
       "importance": 8,
-      "value": 4100
+      "value": 2500
     },
     {
       "name": "Reinforced Logging Luck",
       "category": "Luck and Fortune",
       "importance": 9,
-      "value": 4050
+      "value": 500
     },
     {
       "name": "Reinforced Harvesting Luck",
       "category": "Luck and Fortune",
       "importance": 9,
-      "value": 4000
+      "value": 1000
     },
     {
       "name": "Reinforced Mining Luck",
       "category": "Luck and Fortune",
       "importance": 9,
-      "value": 3950
+      "value": 1000
     },
     {
       "name": "Reinforced Skinning Luck",
       "category": "Luck and Fortune",
       "importance": 9,
-      "value": 3900
+      "value": 100
     },
     {
       "name": "Shirking Heals",
       "category": "Health and Healing",
       "importance": 1,
-      "value": 3850
+      "value": 5000
     },
     {
       "name": "Health",
       "category": "Health and Healing",
       "importance": 2,
-      "value": 3800
+      "value": 5000
     },
     {
       "name": "Luck",
@@ -142,7 +142,7 @@
       "name": "Strike Conditioning",
       "category": "Physical Resistance",
       "importance": 6,
-      "value": 3650
+      "value": 3500
     },
     {
       "name": "Thrust Conditioning",
@@ -154,49 +154,49 @@
       "name": "Critical Retribution",
       "category": "Combat Efficiency",
       "importance": 7,
-      "value": 3550
+      "value": 2100
     },
     {
       "name": "Sturdy Energy",
       "category": "Combat Efficiency",
       "importance": 5,
-      "value": 3500
+      "value": 2300
     },
     {
       "name": "Empowering Breaker",
       "category": "Combat Efficiency",
       "importance": 7,
-      "value": 3450
+      "value": 1800
     },
     {
       "name": "Shirking Energy",
       "category": "Utility",
       "importance": 1,
-      "value": 3400
+      "value": 2600
     },
     {
       "name": "Flame Conditioning",
       "category": "Elemental Resistance",
       "importance": 8,
-      "value": 3350
+      "value": 3500
     },
     {
       "name": "Frost Conditioning",
       "category": "Elemental Resistance",
       "importance": 8,
-      "value": 3300
+      "value": 3500
     },
     {
       "name": "Arboreal Conditioning",
       "category": "Elemental Resistance",
       "importance": 8,
-      "value": 1250
+      "value": 3500
     },
     {
       "name": "Abyssal Conditioning",
       "category": "Elemental Resistance",
       "importance": 8,
-      "value": 1200
+      "value": 3500
     }
   ]
 }

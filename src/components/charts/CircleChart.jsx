@@ -4,10 +4,6 @@ import { CirclePacking } from "@ant-design/plots";
 const CircleChart = ({ data }) => {
   return (
     <CirclePacking
-      autoEllipsis={true}
-      maxLength={10}
-      autoFit={true}
-      padding={0}
       data={{
         name: "root",
         children: data,
@@ -16,8 +12,11 @@ const CircleChart = ({ data }) => {
       hierarchyConfig={{
         padding: 0.01,
       }}
-      label={{
+      tooltip={{
+        autoEllipsis: true,
+        maxLength: 10,
         formatter: ({ name }) => {
+          // TODO figure out how to always show name and ellipsis
           return name !== "root" ? name : "";
         },
         offsetY: 8,

@@ -1,0 +1,156 @@
+{
+  "amuletPerks": [
+    {
+      "name": "Alacrity",
+      "category": "General",
+      "value": 801,
+      "importance": 5
+    },
+    {
+      "name": "Empowered",
+      "category": "General",
+      "value": 2725,
+      "importance": 8
+    },
+    {
+      "name": "Fortified",
+      "category": "General",
+      "value": 2043,
+      "importance": 5
+    },
+    {
+      "name": "Refreshing",
+      "category": "Recovery",
+      "value": 2253,
+      "importance": 1
+    },
+    {
+      "name": "Shirking Debilitate Cleanse",
+      "category": "Recovery",
+      "value": 1862,
+      "importance": 3
+    },
+    {
+      "name": "Shirking DoT Cleanse",
+      "category": "Recovery",
+      "value": 3589,
+      "importance": 2
+    },
+    {
+      "name": "Arcane Protection",
+      "category": "Protection",
+      "value": 4983,
+      "importance": 7
+    },
+    {
+      "name": "Flame Protection",
+      "category": "Protection",
+      "value": 1174,
+      "importance": 6
+    },
+    {
+      "name": "Frozen Protection",
+      "category": "Protection",
+      "value": 2632,
+      "importance": 4
+    },
+    {
+      "name": "Lightning Protection",
+      "category": "Protection",
+      "value": 3241,
+      "importance": 9
+    },
+    {
+      "name": "Nature Protection",
+      "category": "Protection",
+      "value": 4782,
+      "importance": 2
+    },
+    {
+      "name": "Slash Protection",
+      "category": "Protection",
+      "value": 1501,
+      "importance": 5
+    },
+    {
+      "name": "Strike Protection",
+      "category": "Protection",
+      "value": 1222,
+      "importance": 4
+    },
+    {
+      "name": "Thrust Protection",
+      "category": "Protection",
+      "value": 4567,
+      "importance": 3
+    },
+    {
+      "name": "Void Protection",
+      "category": "Protection",
+      "value": 3333,
+      "importance": 6
+    },
+    {
+      "name": "Adored Harvesting Luck",
+      "category": "Luck",
+      "value": 1944,
+      "importance": 5
+    },
+    {
+      "name": "Adored Logging Luck",
+      "category": "Luck",
+      "value": 2891,
+      "importance": 8
+    },
+    {
+      "name": "Adored Mining Luck",
+      "category": "Luck",
+      "value": 3650,
+      "importance": 7
+    },
+    {
+      "name": "Adored Skinning Luck",
+      "category": "Luck",
+      "value": 1098,
+      "importance": 1
+    },
+    { "name": "Divine", "category": "General", "value": 2764, "importance": 9 },
+    {
+      "name": "Refreshing Recovery",
+      "category": "Recovery",
+      "value": 4929,
+      "importance": 2
+    },
+    {
+      "name": "Health",
+      "category": "Recovery",
+      "value": 4289,
+      "importance": 5
+    },
+    { "name": "Luck", "category": "Luck", "value": 2100, "importance": 3 },
+    {
+      "name": "Fortified recovery",
+      "category": "Recovery",
+      "value": 3575,
+      "importance": 4
+    },
+    {
+      "name": "Purify",
+      "category": "Recovery",
+      "value": 4822,
+      "importance": 6
+    },
+    {
+      "name": "Stamina Recovery",
+      "category": "Recovery",
+      "value": 1999,
+      "importance": 2
+    },
+    {
+      "name": "Alchemist Reprieve",
+      "category": "General",
+      "value": 3111,
+      "importance": 8
+    }
+  ]
+}

@@ -68,8 +68,7 @@ const AppLayout = ({ children }) => {
           >
             <Menu
               mode="inline"
-              defaultSelectedKeys={["1"]}
-              defaultOpenKeys={["sub1"]}
+              defaultOpenKeys={["armor-perks"]}
               style={{
                 height: "100%",
               }}
@@ -79,7 +78,7 @@ const AppLayout = ({ children }) => {
           <Content
             style={{
               padding: "0 24px",
-              minHeight: 1000,
+              minHeight: 700,
             }}
           >
             <Routes>
@@ -91,7 +90,8 @@ const AppLayout = ({ children }) => {
                       Welcome to NW Perk Charts.
                     </Typography.Title>
                     <Typography.Text>
-                      Where you can visualize the most value perks in new world.
+                      Where you can visualize the most important and valuable
+                      perks in new world.
                     </Typography.Text>
                   </div>
                 }

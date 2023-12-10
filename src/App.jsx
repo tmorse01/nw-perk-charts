@@ -20,16 +20,20 @@ const App = ({ children }) => {
       label: "Armor Perk Charts",
       children: [
         {
+          key: "bar",
+          label: <Link to="/armor/bar">Bar</Link>,
+        },
+        {
+          key: "wordcloud",
+          label: <Link to="/armor/wordcloud">Word Cloud</Link>,
+        },
+        {
           key: "armor-bubble",
           label: <Link to="/armor/bubble">Bubble</Link>,
         },
         {
           key: "circle",
           label: <Link to="/armor/circle">Circle</Link>,
-        },
-        {
-          key: "wordcloud",
-          label: <Link to="/armor/wordcloud">Word Cloud</Link>,
         },
       ],
     },

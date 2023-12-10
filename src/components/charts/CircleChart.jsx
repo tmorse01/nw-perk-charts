@@ -9,7 +9,6 @@ const CircleChart = ({ data }) => {
       name: "root",
       children: data,
     },
-    sizeField: "r",
     label: false,
     theme: "default",
     legend: false,

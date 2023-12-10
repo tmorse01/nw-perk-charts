@@ -4,25 +4,25 @@
       "name": "Refreshing",
       "category": "Utility",
       "importance": 1,
-      "value": 5000
+      "value": 4100
     },
     {
       "name": "Physical Aversion",
       "category": "Damage Absorption",
       "importance": 3,
-      "value": 4000
+      "value": 3900
     },
     {
       "name": "Elemental Aversion",
       "category": "Damage Absorption",
       "importance": 3,
-      "value": 4700
+      "value": 5000
     },
     {
       "name": "Shirking Fortification",
       "category": "Damage Absorption",
       "importance": 5,
-      "value": 4650
+      "value": 4000
     },
     {
       "name": "Enchanted Ward",
@@ -40,19 +40,19 @@
       "name": "Freedom",
       "category": "Utility",
       "importance": 2,
-      "value": 4000
+      "value": 4400
     },
     {
       "name": "Vigor",
       "category": "Health and Healing",
       "importance": 4,
-      "value": 3000
+      "value": 2500
     },
     {
       "name": "Invigorated",
       "category": "Health and Healing",
       "importance": 5,
-      "value": 3000
+      "value": 2000
     },
     {
       "name": "Arcane Harnessing",
@@ -94,7 +94,7 @@
       "name": "Reinforced Logging Luck",
       "category": "Luck and Fortune",
       "importance": 9,
-      "value": 500
+      "value": 1000
     },
     {
       "name": "Reinforced Harvesting Luck",
@@ -112,7 +112,7 @@
       "name": "Reinforced Skinning Luck",
       "category": "Luck and Fortune",
       "importance": 9,
-      "value": 100
+      "value": 1000
     },
     {
       "name": "Shirking Heals",
@@ -136,25 +136,25 @@
       "name": "Slash Conditioning",
       "category": "Physical Resistance",
       "importance": 6,
-      "value": 3700
+      "value": 3000
     },
     {
       "name": "Strike Conditioning",
       "category": "Physical Resistance",
       "importance": 6,
-      "value": 3500
+      "value": 2000
     },
     {
       "name": "Thrust Conditioning",
       "category": "Physical Resistance",
       "importance": 6,
-      "value": 3600
+      "value": 2500
     },
     {
       "name": "Critical Retribution",
       "category": "Combat Efficiency",
       "importance": 7,
-      "value": 2100
+      "value": 100
     },
     {
       "name": "Sturdy Energy",
@@ -166,13 +166,13 @@
       "name": "Empowering Breaker",
       "category": "Combat Efficiency",
       "importance": 7,
-      "value": 1800
+      "value": 1500
     },
     {
       "name": "Shirking Energy",
       "category": "Utility",
       "importance": 1,
-      "value": 2600
+      "value": 2300
     },
     {
       "name": "Flame Conditioning",

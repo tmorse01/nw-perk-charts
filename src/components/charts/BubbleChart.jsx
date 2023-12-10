@@ -7,11 +7,11 @@ const BubbleChart = ({ data }) => {
     height: 600,
     width: 1000,
     data,
-    xField: "importance",
+    xField: "name",
     yField: "value",
     sizeField: "value",
     colorField: "category",
-    color: ["#ffd500", "#82cab2", "#193442", "#d18768", "#7e827a"],
+    theme: "default",
     size: [4, 30],
     shape: "circle",
     pointStyle: {

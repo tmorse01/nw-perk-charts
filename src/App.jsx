@@ -45,7 +45,7 @@ const App = ({ children }) => {
           gap: "32px",
         }}
       >
-        <Link href="/" className="logo-link">
+        <Link to="/" className="logo-link">
           <img src={newWorldLogo} className="logo" alt="New World logo" />
         </Link>
         <Typography.Title level={3}>Perk Charts</Typography.Title>

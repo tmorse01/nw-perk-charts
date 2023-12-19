@@ -12,3 +12,7 @@
 .logo-link {
   height: 64px;
 }
+
+.tier-item {
+  border: 1px solid black;
+}

@@ -6,6 +6,7 @@ import Home from "./components/content/home";
 
 import { Layout, Menu, Typography, theme } from "antd";
 import { Link, Routes, Route } from "react-router-dom";
+import TierList from "./components/charts/TierList";
 
 const { Header, Content, Footer, Sider } = Layout;
 
@@ -17,7 +18,7 @@ const App = ({ children }) => {
   const navItems = [
     {
       key: "armor-perks",
-      label: "Armor Perk Charts",
+      label: "Armor Perk Values",
       children: [
         {
           key: "bar",
@@ -34,6 +35,32 @@ const App = ({ children }) => {
         {
           key: "circle",
           label: <Link to="/armor/circle">Circle</Link>,
+        },
+      ],
+    },
+    {
+      key: "tier-charts",
+      label: "Perk Tiers",
+      children: [
+        {
+          key: "armor",
+          label: <Link to="/tiers/armor">Armor</Link>,
+        },
+        {
+          key: "ability-armor",
+          label: <Link to="/tiers/ability-armor">Abilities on Armor</Link>,
+        },
+        {
+          key: "amulet",
+          label: <Link to="/tiers/amulet">Amulet</Link>,
+        },
+        {
+          key: "ring",
+          label: <Link to="/tiers/ring">Ring</Link>,
+        },
+        {
+          key: "earring",
+          label: <Link to="/tiers/earring">Earring</Link>,
         },
       ],
     },
@@ -92,6 +119,7 @@ const App = ({ children }) => {
                 path="/armor/:chartType"
                 element={<Chart data={armorPerkData.armorPerks} />}
               />
+              <Route path="/tiers/:dataType" element={<TierList />} />
             </Routes>
             {children}
           </Content>

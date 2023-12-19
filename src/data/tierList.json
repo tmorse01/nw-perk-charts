@@ -1,0 +1,612 @@
+{
+  "armor": [
+    {
+      "name": "Health",
+      "tier": "S"
+    },
+    {
+      "name": "Enchanted Ward",
+      "tier": "S"
+    },
+    {
+      "name": "Elemental Aversion",
+      "tier": "S"
+    },
+    {
+      "name": "Refreshing",
+      "tier": "S"
+    },
+    {
+      "name": "Grit Ward",
+      "tier": "S"
+    },
+    {
+      "name": "Slash Conditioning",
+      "tier": "A"
+    },
+    {
+      "name": "Sturdy Energy (Heavy)",
+      "tier": "A"
+    },
+    {
+      "name": "Thrust Conditioning",
+      "tier": "A"
+    },
+    {
+      "name": "Elemental Harnessing",
+      "tier": "A"
+    },
+    {
+      "name": "Freedom",
+      "tier": "B"
+    },
+    {
+      "name": "Physical Aversion",
+      "tier": "B"
+    },
+    {
+      "name": "Shirking Energy (Light Equip Load)",
+      "tier": "B"
+    },
+    {
+      "name": "Shirking Fortification (Medium/Heavy)",
+      "tier": "B"
+    },
+    {
+      "name": "Shirking Healing",
+      "tier": "A"
+    },
+    {
+      "name": "Strike Conditioning",
+      "tier": "B"
+    },
+    {
+      "name": "Vigor",
+      "tier": "C"
+    },
+    {
+      "name": "Invigorated",
+      "tier": "C"
+    },
+    {
+      "name": "Element Conditioning",
+      "tier": "C"
+    },
+    {
+      "name": "Empowering Breaker",
+      "tier": "D"
+    },
+    {
+      "name": "Luck",
+      "tier": "D"
+    }
+  ],
+  "ability-armor": [
+    {
+      "name": "Crowded Bludgeon",
+      "tier": "S"
+    },
+    {
+      "name": "Empowering Fireball",
+      "tier": "S"
+    },
+    {
+      "name": "Enfeebling Maelstrom",
+      "tier": "S"
+    },
+    {
+      "name": "Enfeebling Poison Shot",
+      "tier": "S"
+    },
+    {
+      "name": "Enfeebling Skewer",
+      "tier": "S"
+    },
+    {
+      "name": "Fortifying Perforate",
+      "tier": "S"
+    },
+    {
+      "name": "Fortifying Sacred Ground",
+      "tier": "S"
+    },
+    {
+      "name": "Fortifying Shield Rush",
+      "tier": "S"
+    },
+    {
+      "name": "Insatiable Gravity Well",
+      "tier": "S"
+    },
+    {
+      "name": "Keen Beacon",
+      "tier": "S"
+    },
+    {
+      "name": "Keen Tondo",
+      "tier": "S"
+    },
+    {
+      "name": "Leeching Cyclone",
+      "tier": "S"
+    },
+    {
+      "name": "Leeching Flurry",
+      "tier": "S"
+    },
+    {
+      "name": "Mending Protection",
+      "tier": "S"
+    },
+    {
+      "name": "Mending Vortex",
+      "tier": "S"
+    },
+    {
+      "name": "Nullifying Oblivion",
+      "tier": "S"
+    },
+    {
+      "name": "Omnidirectional Evade",
+      "tier": "S"
+    },
+    {
+      "name": "Plagued Splitting Grenades",
+      "tier": "S"
+    },
+    {
+      "name": "Putrefying Scream",
+      "tier": "S"
+    },
+    {
+      "name": "Pylon Burst",
+      "tier": "S"
+    },
+    {
+      "name": "Refreshing Pillar of Fire",
+      "tier": "S"
+    },
+    {
+      "name": "Refreshing Torrent",
+      "tier": "S"
+    },
+    {
+      "name": "Relentless Freedom",
+      "tier": "S"
+    },
+    {
+      "name": "Sundering Clear Out",
+      "tier": "S"
+    },
+    {
+      "name": "Sundering Shockwave",
+      "tier": "S"
+    },
+    {
+      "name": "Unending Thaw",
+      "tier": "S"
+    },
+    {
+      "name": "Accelerated Resolve",
+      "tier": "A"
+    },
+    {
+      "name": "Bleeding Sweep",
+      "tier": "A"
+    },
+    {
+      "name": "Deadly Frost",
+      "tier": "A"
+    },
+    {
+      "name": "Empowered Ice Spike",
+      "tier": "A"
+    },
+    {
+      "name": "Empowering Whirling Blade",
+      "tier": "A"
+    },
+    {
+      "name": "Lasting Rain of Arrows",
+      "tier": "A"
+    },
+    {
+      "name": "Leeching Path of Destiny",
+      "tier": "A"
+    },
+    {
+      "name": "Penetrating Rapid Shot",
+      "tier": "A"
+    },
+    {
+      "name": "Purity of Light",
+      "tier": "A"
+    },
+    {
+      "name": "Refreshing Divine Embrace",
+      "tier": "A"
+    },
+    {
+      "name": "Refreshing Rupture",
+      "tier": "A"
+    },
+    {
+      "name": "Venturing Claw Shot",
+      "tier": "A"
+    },
+    {
+      "name": "Voracious Blade",
+      "tier": "A"
+    },
+    {
+      "name": "Empowering Explosive Arrow",
+      "tier": "B"
+    },
+    {
+      "name": "Empowering Meteor Shower",
+      "tier": "B"
+    },
+    {
+      "name": "Empowering Rending Throw",
+      "tier": "B"
+    },
+    {
+      "name": "Energizing Counter",
+      "tier": "B"
+    },
+    {
+      "name": "Leeching Shrapnel Blast",
+      "tier": "B"
+    },
+    {
+      "name": "Powerful Eruption",
+      "tier": "B"
+    },
+    {
+      "name": "Refreshing Mighty Gavel",
+      "tier": "B"
+    },
+    {
+      "name": "Sundering Javelin",
+      "tier": "B"
+    },
+    {
+      "name": "Contagious Reverse Stab",
+      "tier": "C"
+    },
+    {
+      "name": "Crippling Reap",
+      "tier": "C"
+    },
+    {
+      "name": "Deadly Flourish",
+      "tier": "C"
+    },
+    {
+      "name": "Deadly Frost",
+      "tier": "C"
+    },
+    {
+      "name": "Empowering Leaping Strike",
+      "tier": "C"
+    },
+    {
+      "name": "Energizing Evade Shot",
+      "tier": "C"
+    },
+    {
+      "name": "Fortfying Whirlwind",
+      "tier": "C"
+    },
+    {
+      "name": "Healing Tomb",
+      "tier": "C"
+    },
+    {
+      "name": "Keen Berserk",
+      "tier": "C"
+    },
+    {
+      "name": "Keen Vault Kick",
+      "tier": "C"
+    },
+    {
+      "name": "Leeching Crosscut",
+      "tier": "C"
+    },
+    {
+      "name": "Mending Execute",
+      "tier": "C"
+    },
+    {
+      "name": "Refreshing Distancing Throw",
+      "tier": "C"
+    },
+    {
+      "name": "Skyward Nullification",
+      "tier": "C"
+    },
+    {
+      "name": "Slowing Tether",
+      "tier": "C"
+    },
+    {
+      "name": "Steadfast Purification",
+      "tier": "C"
+    },
+    {
+      "name": "Unbroken Winds",
+      "tier": "C"
+    },
+    {
+      "name": "Accelerating Barrage",
+      "tier": "D"
+    },
+    {
+      "name": "Accelerating Flamethrower",
+      "tier": "D"
+    },
+    {
+      "name": "Accelerating Lights Embrace",
+      "tier": "D"
+    },
+    {
+      "name": "Accelerating Traps",
+      "tier": "D"
+    },
+    {
+      "name": "Crippling Blast Shot",
+      "tier": "D"
+    },
+    {
+      "name": "Crippling Powder Burn",
+      "tier": "D"
+    },
+    {
+      "name": "Diminishing Orb",
+      "tier": "D"
+    },
+    {
+      "name": "Diminishing Shield Bash",
+      "tier": "D"
+    },
+    {
+      "name": "Empowering Armor Breaker",
+      "tier": "D"
+    },
+    {
+      "name": "Empowering Shooter's Stance",
+      "tier": "D"
+    },
+    {
+      "name": "Exhausting Infected Throw",
+      "tier": "D"
+    },
+    {
+      "name": "Exhaustive Net Shot",
+      "tier": "D"
+    },
+    {
+      "name": "Fortfying Burnout",
+      "tier": "D"
+    },
+    {
+      "name": "Mending Sticky Bombs",
+      "tier": "D"
+    },
+    {
+      "name": "Refreshing Charge",
+      "tier": "D"
+    },
+    {
+      "name": "Refreshing Fleche",
+      "tier": "D"
+    },
+    {
+      "name": "Refreshing Penetrating Shot",
+      "tier": "D"
+    },
+    {
+      "name": "Refreshing Power Shot",
+      "tier": "D"
+    },
+    {
+      "name": "Refreshing Stopping Power",
+      "tier": "D"
+    },
+    {
+      "name": "Resupplying Mortar Charge",
+      "tier": "D"
+    },
+    {
+      "name": "Slowing Rupture",
+      "tier": "D"
+    },
+    {
+      "name": "Sundering Riposte",
+      "tier": "D"
+    },
+    {
+      "name": "Thwarting Trip",
+      "tier": "D"
+    }
+  ],
+  "amulet": [
+    {
+      "name": "Empowered",
+      "tier": "S"
+    },
+    {
+      "name": "Health",
+      "tier": "S"
+    },
+    {
+      "name": "Protection",
+      "tier": "S"
+    },
+    {
+      "name": "Stamina Recovery",
+      "tier": "S"
+    },
+    {
+      "name": "Divine",
+      "tier": "A"
+    },
+    {
+      "name": "Fortified",
+      "tier": "A"
+    },
+    {
+      "name": "Refreshing Recovery",
+      "tier": "A"
+    },
+    {
+      "name": "Shirking DoT Cleanse",
+      "tier": "B"
+    },
+    {
+      "name": "Alchemist Reprieve",
+      "tier": "C"
+    },
+    {
+      "name": "Purify",
+      "tier": "C"
+    },
+    {
+      "name": "Refreshing",
+      "tier": "C"
+    },
+    {
+      "name": "Shirking Debilitate Cleanse",
+      "tier": "C"
+    },
+    {
+      "name": "Alacrity",
+      "tier": "D"
+    },
+    {
+      "name": "Luck",
+      "tier": "D"
+    },
+    {
+      "name": "Fortified Recovery",
+      "tier": "D"
+    }
+  ],
+  "ring": [
+    {
+      "name": "Hearty",
+      "tier": "S"
+    },
+    {
+      "name": "Damage",
+      "tier": "S"
+    },
+    {
+      "name": "Healing Breeze",
+      "tier": "S"
+    },
+    {
+      "name": "Sacred",
+      "tier": "S"
+    },
+    {
+      "name": "Leeching",
+      "tier": "S"
+    },
+    {
+      "name": "Keen Awareness",
+      "tier": "A"
+    },
+    {
+      "name": "Burning",
+      "tier": "B"
+    },
+    {
+      "name": "Infected",
+      "tier": "B"
+    },
+    {
+      "name": "Blood Letting",
+      "tier": "B"
+    },
+    {
+      "name": "Enfeebling",
+      "tier": "C"
+    },
+    {
+      "name": "Purifying",
+      "tier": "C"
+    },
+    {
+      "name": "Purifying Heart",
+      "tier": "C"
+    },
+    {
+      "name": "Refreshing",
+      "tier": "C"
+    },
+    {
+      "name": "Crippling",
+      "tier": "D"
+    },
+    {
+      "name": "Luck",
+      "tier": "D"
+    },
+    {
+      "name": "Poisoning",
+      "tier": "D"
+    }
+  ],
+  "earring": [
+    {
+      "name": "Refreshing",
+      "tier": "S"
+    },
+    {
+      "name": "Despised",
+      "tier": "S"
+    },
+    {
+      "name": "Purifying Toast",
+      "tier": "S"
+    },
+    {
+      "name": "Healthy Toast",
+      "tier": "A"
+    },
+    {
+      "name": "Refreshing Toast",
+      "tier": "A"
+    },
+    {
+      "name": "Regenerating",
+      "tier": "B"
+    },
+    {
+      "name": "Empowering Toast",
+      "tier": "B"
+    },
+    {
+      "name": "Healing Heart",
+      "tier": "B"
+    },
+    {
+      "name": "Nimble",
+      "tier": "B"
+    },
+    {
+      "name": "Fortifying Toast",
+      "tier": "C"
+    },
+    {
+      "name": "Luck",
+      "tier": "D"
+    },
+    {
+      "name": "Duplicating Toast",
+      "tier": "D"
+    }
+  ]
+}

@@ -35,8 +35,12 @@ const TierList = () => {
       {Object.keys(tiers).map((tier) => (
         <Card
           key={tier}
-          title={`Tier ${tier}`}
-          headStyle={{ backgroundColor: tierColors[tier], color: "white" }}
+          title={`${tier}`}
+          headStyle={{
+            backgroundColor: tierColors[tier],
+            fontSize: "24px",
+            fontWeight: 700,
+          }}
           bordered={false}
           style={{ width: 300 }}
         >

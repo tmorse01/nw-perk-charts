@@ -40,7 +40,7 @@ const App = ({ children }) => {
     },
     {
       key: "tier-charts",
-      label: "Perk Tiers",
+      label: "PvE Perk Tiers",
       children: [
         {
           key: "armor",
